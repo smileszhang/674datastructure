@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\main.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\main.cpp(110): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\main.cpp(140): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\main.cpp(177): warning C4018: '<=': signed/unsigned mismatch
+  Heap.cpp
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\heap.cpp(57): warning C4018: '<=': signed/unsigned mismatch
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\heap.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Data.cpp
+c:\users\shiyang\documents\visual studio 2015\projects\674homework2\674homework2\data.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  674homework2.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\674homework2\Debug\674homework2.exe
+  674homework2.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\674homework2\Debug\674homework2.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\shiyang\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shiyang\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shiyang\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(198): warning C4102: 'defult': unreferenced label
+  ConsoleApplication2.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

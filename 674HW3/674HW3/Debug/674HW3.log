@@ -1,0 +1,9 @@
+﻿  main.cpp
+  KDTree.cpp
+  BSTTree.cpp
+  Generating Code...
+c:\users\shiyang\documents\visual studio 2015\projects\674hw3\674hw3\bsttree.cpp(67): warning C4715: 'BSTTree::search': not all control paths return a value
+c:\users\shiyang\documents\visual studio 2015\projects\674hw3\674hw3\bsttree.cpp(54): warning C4715: 'BSTTree::deletenode': not all control paths return a value
+c:\users\shiyang\documents\visual studio 2015\projects\674hw3\674hw3\kdtree.cpp(128): warning C4715: 'KDTree::search': not all control paths return a value
+  674HW3.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\674HW3\Debug\674HW3.exe
+  674HW3.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\674HW3\Debug\674HW3.pdb (Full PDB)

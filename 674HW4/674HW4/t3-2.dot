@@ -1,0 +1,12 @@
+digraph G {
+s -> t [label="10"]
+s -> y [label="5"]
+t -> x [label="1"]
+t -> y [label="2"]
+x -> z [label="4"]
+y -> t [label="3"]
+y -> x [label="9"]
+y -> z [label="2"]
+z -> s [label="7"]
+z -> x [label="6"]
+}

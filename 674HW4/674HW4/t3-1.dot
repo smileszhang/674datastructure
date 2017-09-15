@@ -1,0 +1,12 @@
+digraph G {
+s -> t
+s -> y
+t -> x
+t -> y
+x -> z
+y -> t
+y -> x
+y -> z
+z -> s
+z -> x
+}

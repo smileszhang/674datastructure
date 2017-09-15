@@ -1,0 +1,12 @@
+strict graph G {
+w -- z
+r -- v
+y -- z
+z -- y
+v -- r
+t -- w
+y -- u
+w -- t
+z -- w
+u -- y
+}

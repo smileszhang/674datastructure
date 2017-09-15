@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\shiyang\documents\visual studio 2015\projects\674hw4\674hw4\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\shiyang\documents\visual studio 2015\projects\674hw4\674hw4\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  674HW4.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\674HW4\Debug\674HW4.exe
+  674HW4.vcxproj -> C:\Users\shiyang\Documents\Visual Studio 2015\Projects\674HW4\Debug\674HW4.pdb (Full PDB)
